@@ -1,0 +1,74 @@
+body {
+    padding: 20px;
+}
+
+header img {
+    width: 35%;
+}
+
+.haut ul li a {
+    width: 110px;
+}
+
+.titre h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.contr img {
+    margin-top: 20px;
+}
+
+.contribution {
+    margin-top: 30px;
+}
+
+.sec {
+    margin-top: 30px;
+}
+
+.sec img {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.slide img {
+    width: 100%;
+}
+
+.oli img {
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+.ens {
+    background-color: darkseagreen;
+    margin-top: 30px;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+.departement h5 {
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+
+/*
+.img-footer {
+    margin-top: 40px;
+    margin-left: 450px;
+}
+*/
+
+.img-footer img {
+    margin-left: 15px;
+}
